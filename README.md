@@ -20,14 +20,14 @@ Install [Gecko Driver](https://github.com/mozilla/geckodriver) if using firefox.
 
 2. Customize your personal message --
 
-'''
+```
 		contact.chat.send_message(<message_to_send>)
-'''
+```
 
 3. Run script
-'''
+```
 		python reply.py
-'''
+```
 
 
 
